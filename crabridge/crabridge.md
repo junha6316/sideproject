@@ -22,3 +22,5 @@
   - 원하는 일정이 등록되었을 때 알림 발송
 
 ## 데모
+
+![나의 동영상 1](https://github.com/junha6316/sideproject/assets/63660112/02b81e9b-0a5b-44d9-90f6-0a3b5012a547)
